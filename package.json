@@ -26,7 +26,8 @@
   "dependencies": {
     "amqplib": "^0.5.1",
     "lodash.assignin": "4.x.x",
-    "uuid": "^3.0.1"
+    "uuid": "^3.0.1",
+    "promise-defer": "^1.0.0"
   },
   "devDependencies": {
     "chai": "3.x.x",
