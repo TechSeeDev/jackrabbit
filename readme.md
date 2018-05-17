@@ -1,6 +1,7 @@
 # Jackrabbit
 
 RabbitMQ in Node.js without hating life.
+
 [![Build Status](https://travis-ci.org/Igor-Techsee/jackrabbit.svg?branch=master)](https://travis-ci.org/Igor-Techsee/jackrabbit)
 
 ## Simple Example
