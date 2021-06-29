@@ -1,6 +1,6 @@
 {
   "name": "@techsee/jackrabbit-mod",
-  "version": "4.7.0",
+  "version": "4.7.1",
   "description": "Easy RabbitMQ for node",
   "keywords": [
     "amqp",
