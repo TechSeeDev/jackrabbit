@@ -1,6 +1,6 @@
 {
   "name": "@techsee/jackrabbit-mod",
-  "version": "4.7.1",
+  "version": "999.4.7-nodejs20",
   "description": "Easy RabbitMQ for node",
   "keywords": [
     "amqp",
@@ -24,7 +24,7 @@
   "author": "Hunter Loftis <hunter@hunterloftis.com>",
   "license": "MIT",
   "dependencies": {
-    "amqplib": "^0.5.1",
+    "amqplib": "~0.8.0",
     "lodash.assignin": "4.x.x",
     "uuid": "^3.0.1",
     "promise-defer": "^1.0.0"
