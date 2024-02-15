@@ -8,7 +8,7 @@ describe('queue', function() {
 
   describe('consume', function() {
 
-    //before(createConnection);
+    before(createConnection);
 
     before(function() {
       this.name = `test.queue.consume.${ uuid() }`;
