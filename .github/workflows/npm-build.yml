@@ -12,7 +12,7 @@ on:
 
 jobs:
     npm-build-and-notify:
-        uses: TechSeePublic/techsee-actions/.github/workflows/npm-build-common-multiple-nodes-rabbitmq.yml@nodejs20
+        uses: TechSeePublic/techsee-actions/.github/workflows/npm-build-common-multiple-nodes.yml@main
         with:
             branch: ${{ github.head_ref || github.ref_name }}
             use-slack: true
