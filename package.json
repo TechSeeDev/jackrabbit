@@ -1,6 +1,6 @@
 {
   "name": "@techsee/jackrabbit-mod",
-  "version": "6.1.0-alpha-amit-RL-175-fix-rabbitmq.3",
+  "version": "6.1.0-alpha-amit-RL-175-fix-rabbitmq.4",
   "description": "Easy RabbitMQ for node",
   "keywords": [
     "amqp",
